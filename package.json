@@ -1,0 +1,18 @@
+{
+  "name": "19scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Credit Score Store ◄ Get Your FREE Credit Score Credit Score Store, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "Credit Score Store",
+    "minimum credit score for apartment rental",
+    "unsecured credit card with 600 credit score",
+    "credit score 101",
+    "credit score as a student"
+  ],
+  "repository": "https://github.com/truelestor/19scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
